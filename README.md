@@ -4,4 +4,4 @@ The contract, a.k.a Stake Token Standard, is an extension of the ERC20 standard,
 
 Live user interface can be found at: https://www.hashingpool.party/staketokeninterface/
 
-Full Description of the contract can be found at: https://www.hashingpool.party/catsperdapp/
+Full Description of the contract can be found at: https://www.hashingpool.party/catspersdapp/
